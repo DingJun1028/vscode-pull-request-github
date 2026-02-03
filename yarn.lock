@@ -1719,10 +1719,10 @@ co@^4.6.0:
   resolved "https://registry.yarnpkg.com/co/-/co-4.6.0.tgz#6ea6bdf3d853ae54ccb8e47bfa0bf3f9031fb184"
   integrity sha1-bqa989hTrlTMuOR7+gvz+QMfsYQ=
 
-cockatiel@^3.1.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/cockatiel/-/cockatiel-3.1.1.tgz#82c95dcad673649c43c0a35c424c5d2ad59d4e6b"
-  integrity sha512-zHMqBGvkZLfMKkBMD+0U8X1nW8zYwMtymgJ8CTknWOmTDpvjEwygtFN4QR9A1iFQDwCbg8g8+B/zVBoxvj1feQ==
+cockatiel@^3.2.1:
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/cockatiel/-/cockatiel-3.2.1.tgz#575f937bc4040a20ae27352a6d07c9c5a741981f"
+  integrity sha512-gfrHV6ZPkquExvMh9IOkKsBzNDk6sDuZ6DdBGUBkvFnTCqCxzpuq48RySgP0AnaqQkw2zynOFj9yly6T1Q2G5Q==
 
 color-convert@^1.9.0:
   version "1.9.3"
